@@ -28,7 +28,7 @@ body {
   border-radius: 25px;
 }
 .slider-item {
-  display: flex;
+  /* display: flex; */
   align-items: center;
 }
 .slider-content {
